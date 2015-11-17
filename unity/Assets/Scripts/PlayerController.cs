@@ -6,15 +6,17 @@ public class PlayerController : MonoBehaviour {
     public float playerSpeed = 3f;
     public float playerSlowSpeed = 1f;
     float playerCurrentSpeed;
+    public bool spreadShotActive = false;
 
-    public float shotDelay = 0.2f;
-    private bool readytoShoot = true;
+    public GameObject gunMain;
+    public GameObject gunLeft;
+    public GameObject gunRight;
 
-    public GameObject bullet;
 
     // Use this for initialization
     void Start () {
         playerCurrentSpeed = playerSpeed;
+        SetSpreadShot(false);
 	}
 	
 	// Update is called once per frame
@@ -31,22 +33,29 @@ public class PlayerController : MonoBehaviour {
             playerCurrentSpeed = playerSpeed;
         }
 
-
-        // Shooting
-        if(Input.GetButton("Fire1") && readytoShoot)
-        {
-            Instantiate(bullet, transform.position, bullet.transform.rotation);
-            readytoShoot = false;
-            Invoke("ResetReadyToShoot", shotDelay);
-        }
-    
+        // Check if the player has the spread shot powerup
+        CheckSpreadShot();
 
        transform.position += new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0.0f) * playerCurrentSpeed * Time.deltaTime;
 
     }
 
-    void ResetReadyToShoot()
+    void CheckSpreadShot()
     {
-        readytoShoot = true;
+        if (spreadShotActive)
+        {
+            gunLeft.SetActive(true);
+            gunRight.SetActive(true);
+        }
+        else if (!spreadShotActive)
+        {
+            gunLeft.SetActive(false);
+            gunRight.SetActive(false);
+        }
+    }
+
+    void SetSpreadShot(bool _val)
+    {
+        spreadShotActive = _val;
     }
 }
