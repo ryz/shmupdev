@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 145363376}
   - 212: {fileID: 145363375}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBaseForeground_8 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149,7 +149,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 191029525}
   - 212: {fileID: 191029524}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBackground_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -202,7 +202,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 232868355}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -230,7 +230,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 323509467}
   - 212: {fileID: 323509466}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBaseForeground_8 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -330,7 +330,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 401982140}
   - 212: {fileID: 401982139}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBaseForeground_8 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -384,7 +384,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 407975212}
   - 212: {fileID: 407975211}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: CaveBaseForeground_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -437,7 +437,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 459986746}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -464,7 +464,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 475803405}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -504,7 +504,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 555980531}
   - 212: {fileID: 555980530}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBackground_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -559,7 +559,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 705805338}
   - 212: {fileID: 705805337}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBaseForeground_8 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -613,7 +613,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 781211548}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -640,7 +640,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 847937089}
-  m_Layer: 5
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -668,7 +668,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 951843296}
   - 212: {fileID: 951843295}
-  m_Layer: 5
+  m_Layer: 8
   m_Name: CaveBackground_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -722,7 +722,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 997729303}
   - 212: {fileID: 997729302}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBaseForeground_8 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -777,7 +777,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1081675710}
   - 114: {fileID: 1081675709}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: GunLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -817,7 +817,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1167985195}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -845,7 +845,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1189980735}
   - 114: {fileID: 1189980736}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: GunMain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -886,7 +886,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1218907147}
   - 212: {fileID: 1218907146}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBaseForeground_8 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -941,7 +941,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1261637842}
   - 212: {fileID: 1261637841}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CaveBaseForeground_8 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1000,7 +1000,7 @@ GameObject:
   - 50: {fileID: 1270289252}
   - 61: {fileID: 1270289253}
   - 114: {fileID: 1270289254}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: PlayerShip
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -1040,7 +1040,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1270289248}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .344999999, y: -2.94000006, z: 0}
+  m_LocalPosition: {x: .298999995, y: -2.94000006, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1189980735}
@@ -1089,7 +1089,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1270289248}
   m_Enabled: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_Offset: {x: 0, y: -.0500000007}
   serializedVersion: 2
@@ -1115,7 +1115,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1536985360}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1143,7 +1143,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1605705002}
   - 114: {fileID: 1605705003}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: GunRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1183,7 +1183,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1628418340}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1297,7 +1297,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1883267826}
   - 212: {fileID: 1883267825}
-  m_Layer: 5
+  m_Layer: 8
   m_Name: CaveBackground_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1351,7 +1351,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 2101684922}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}

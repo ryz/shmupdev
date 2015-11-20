@@ -15,10 +15,10 @@ TagManager:
   - 
   - 
   - BG
-  - Bullets
   - Player
-  - 
-  - 
+  - Enemies
+  - PlayerBullets
+  - EnemyBullets
   - 
   - 
   - 
